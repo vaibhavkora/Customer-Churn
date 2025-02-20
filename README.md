@@ -29,8 +29,8 @@ The dataset contains the following key attributes:
 1. **Data Preprocessing**
    
    - Handling missing values
-     - Encoding categorical variables
-     - Feature scaling 
+   - Encoding categorical variables
+   - Feature scaling 
 
 3. **Exploratory Data Analysis (EDA)**
 
@@ -40,9 +40,23 @@ The dataset contains the following key attributes:
 4. **Model Selection & Training**
 
    - Used Random Forest, Logistic Regression, and Decision Trees
-     - Evaluated models using accuracy, precision, recall, and F1-score
+   - Evaluated models using accuracy, precision, recall, and F1-score
 
 4. **Model Evaluation**
 
    - Optimized hyperparameters for best performance
-     - Compared different ML models
+   - Compared different ML models
+
+# 📌Results & Insights
+
+- The best model achieved 85% accuracy in predicting loan approvals.
+
+- The feature importance analysis showed that credit history and applicant income were key predictors.
+
+# 🔥Future Enhancements
+
+- Deploy the model using Flask or FastAPI.
+
+- Improve accuracy with ensemble models.
+
+- Integrate with real-time data sources.
