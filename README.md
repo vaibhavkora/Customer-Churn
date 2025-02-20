@@ -9,17 +9,10 @@ This project is a Loan Approval Prediction System that utilizes Machine Learning
 
 The dataset contains the following key attributes:
 
-Applicant Income: The monthly income of the applicant
-
-Co-applicant Income: Monthly income of co-applicant (if any)
-
-Loan Amount: Requested loan amount
-
-Loan Amount Term: Duration of the loan in months
-
-Credit History: Applicant’s credit history (0 or 1)
-
-Property Area: Urban, Semi-Urban, or Rural
-
-Marital Status, Gender, Education, Self-Employed: Demographic information
+- **Applicant Income**: The monthly income of the applicant
+- **Co-applicant Income**: Monthly income of co-applicant (if any)
+- **Loan Amount**: Requested loan amount
+- **Loan Amount Term**: Duration of the loan in months
+- **Credit History**: Applicant’s credit history (0 or 1)
+- **Property Area**: Urban, Semi-Urban, or Rural Marital Status, Gender, Education, Self-Employed: Demographic information
 
