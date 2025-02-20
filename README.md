@@ -16,3 +16,12 @@ The dataset contains the following key attributes:
 - **Credit History**: Applicant’s credit history (0 or 1)
 - **Property Area**: Urban, Semi-Urban, or Rural Marital Status, Gender, Education, Self-Employed: Demographic information
 
+# 🛠️ Technologies Used
+
+- Python
+- Pandas & NumPy (Data preprocessing)
+- Matplotlib & Seaborn (Data visualization)
+
+- Scikit-learn (Machine Learning models)
+
+- Jupyter Notebook (Development environment)
