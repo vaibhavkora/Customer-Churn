@@ -16,12 +16,32 @@ The dataset contains the following key attributes:
 - **Credit History**: Applicant’s credit history (0 or 1)
 - **Property Area**: Urban, Semi-Urban, or Rural Marital Status, Gender, Education, Self-Employed: Demographic information
 
-# 🛠️ Technologies Used
+# 🛠️Technologies Used
 
 - Python
 - Pandas & NumPy (Data preprocessing)
 - Matplotlib & Seaborn (Data visualization)
-
 - Scikit-learn (Machine Learning models)
-
 - Jupyter Notebook (Development environment)
+
+  # 📌Steps Followed
+
+1. Data Preprocessing
+- Handling missing values
+- Encoding categorical variables
+- Feature scaling 
+
+2. Exploratory Data Analysis (EDA)
+
+- Understanding feature distributions
+- Identifying correlations
+
+3. Model Selection & Training
+
+- Used Random Forest, Logistic Regression, and Decision Trees
+- Evaluated models using accuracy, precision, recall, and F1-score
+
+4. Model Evaluation
+
+- Optimized hyperparameters for best performance
+- Compared different ML models
