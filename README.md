@@ -1,5 +1,6 @@
 # Loan Approval Prediction
-![Image_Alt]()
+
+![Image_Alt](Load_Approval.png)
 
 # 📌Project Overview
 
