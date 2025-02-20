@@ -28,21 +28,21 @@ The dataset contains the following key attributes:
 
 1. **Data Preprocessing**
    
-       - Handling missing values
-       - Encoding categorical variables
-       - Feature scaling 
+   - Handling missing values
+     - Encoding categorical variables
+     - Feature scaling 
 
 3. **Exploratory Data Analysis (EDA)**
 
-       - Understanding feature distributions
-       - Identifying correlations
+    - Understanding feature distributions
+    - Identifying correlations
 
 4. **Model Selection & Training**
 
-       - Used Random Forest, Logistic Regression, and Decision Trees
-       - Evaluated models using accuracy, precision, recall, and F1-score
+   - Used Random Forest, Logistic Regression, and Decision Trees
+     - Evaluated models using accuracy, precision, recall, and F1-score
 
 4. **Model Evaluation**
 
-       - Optimized hyperparameters for best performance
-       - Compared different ML models
+   - Optimized hyperparameters for best performance
+     - Compared different ML models
